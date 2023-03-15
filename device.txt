@@ -1,0 +1,122 @@
+[
+    {
+        "mac": "4c:c8:a1:04:00:c0",
+        "serial": "QBSA-4MLC-3EMX",
+        "networkId": "L_566327653141858540",
+        "productType": "appliance"
+    },
+    {
+        "mac": "4c:c8:a1:01:00:c0",
+        "serial": "QBSA-KGQJ-T3EW",
+        "networkId": "L_566327653141858542",
+        "productType": "appliance"
+    },
+    {
+        "mac": "4c:c8:a1:00:00:c0",
+        "serial": "QBSA-KS3Y-RHCH",
+        "networkId": "L_566327653141858543",
+        "productType": "appliance"
+    },
+    {
+        "mac": "4c:c8:a1:02:00:c0",
+        "serial": "QBSA-UAM7-VVRE",
+        "networkId": "L_566327653141858541",
+        "productType": "appliance"
+    },
+    {
+        "mac": "4c:c8:a1:03:00:c0",
+        "serial": "QBSA-UP8W-9MMW",
+        "networkId": "L_566327653141858539",
+        "productType": "appliance"
+    },
+    {
+        "mac": "4c:c8:a1:05:00:c0",
+        "serial": "QBSB-AN5N-M9XC",
+        "networkId": "L_566327653141858543",
+        "productType": "switch"
+    },
+    {
+        "mac": "4c:c8:a1:09:00:c0",
+        "serial": "QBSB-DEWE-PJ9M",
+        "networkId": "L_566327653141858539",
+        "productType": "switch"
+    },
+    {
+        "mac": "4c:c8:a1:07:00:c0",
+        "serial": "QBSB-JME8-6ZUK",
+        "networkId": "L_566327653141858541",
+        "productType": "switch"
+    },
+    {
+        "mac": "4c:c8:a1:06:00:c0",
+        "serial": "QBSB-X4HM-KJVV",
+        "networkId": "L_566327653141858542",
+        "productType": "switch"
+    },
+    {
+        "mac": "4c:c8:a1:08:00:c0",
+        "serial": "QBSB-ZJAA-Q7CJ",
+        "networkId": "L_566327653141858540",
+        "productType": "switch"
+    },
+    {
+        "mac": "4c:c8:a1:0c:00:c0",
+        "serial": "QBSC-585W-VGFK",
+        "networkId": "L_566327653141858541",
+        "productType": "wireless"
+    },
+    {
+        "mac": "4c:c8:a1:0e:00:c0",
+        "serial": "QBSC-8F99-Q6RL",
+        "networkId": "L_566327653141858539",
+        "productType": "wireless"
+    },
+    {
+        "mac": "4c:c8:a1:0a:00:c0",
+        "serial": "QBSC-GCDY-RXMK",
+        "networkId": "L_566327653141858543",
+        "productType": "wireless"
+    },
+    {
+        "mac": "4c:c8:a1:0d:00:c0",
+        "serial": "QBSC-NAY6-E86W",
+        "networkId": "L_566327653141858540",
+        "productType": "wireless"
+    },
+    {
+        "mac": "4c:c8:a1:0b:00:c0",
+        "serial": "QBSC-P5WA-8NPY",
+        "networkId": "L_566327653141858542",
+        "productType": "wireless"
+    },
+    {
+        "mac": "4c:c8:a1:0f:00:8e",
+        "serial": "QBSD-99R4-UBTW",
+        "networkId": "L_566327653141858543",
+        "productType": "camera"
+    },
+    {
+        "mac": "4c:c8:a1:12:00:c0",
+        "serial": "QBSD-9A9B-MC9K",
+        "networkId": "L_566327653141858539",
+        "productType": "camera"
+    },
+    {
+        "mac": "4c:c8:a1:11:00:f2",
+        "serial": "QBSD-BA6B-F7ZG",
+        "networkId": "L_566327653141858540",
+        "productType": "camera"
+    },
+    {
+        "mac": "4c:c8:a1:11:00:2a",
+        "serial": "QBSD-PVL8-7PZN",
+        "networkId": "L_566327653141858541",
+        "productType": "camera"
+    },
+    {
+        "mac": "4c:c8:a1:10:00:5c",
+        "serial": "QBSD-SHVY-TDLX",
+        "networkId": "L_566327653141858542",
+        "productType": "camera"
+    }
+]
