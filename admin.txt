@@ -1,0 +1,20 @@
+[
+    {
+        "name": "DevNet Admin",
+        "email": "devnetmerakiadmin@cisco.com",
+        "orgAccess": "read-only",
+        "lastActive": "2023-01-31T16:18:46Z"
+    },
+    {
+        "name": "DevNet Assoc",
+        "email": "devnetmerakiassoc@cisco.com",
+        "orgAccess": "read-only",
+        "lastActive": "2020-01-22T21:19:41Z"
+    },
+    {
+        "name": "Matt Work",
+        "email": "mdenapol@cisco.com",
+        "orgAccess": "full",
+        "lastActive": "2023-03-14T16:13:40Z"
+    }
+]
